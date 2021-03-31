@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "595013014447",
+    "firebase_url": "https://altrumo-otp-96a7d.firebaseio.com",
+    "project_id": "altrumo-otp-96a7d",
+    "storage_bucket": "altrumo-otp-96a7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595013014447:android:15a7e1233c6717666e955a",
+        "android_client_info": {
+          "package_name": "com.example.demo_altrumo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595013014447-jhckgeocju7mqpohqpc0u5uvovra8at5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo_altrumo",
+            "certificate_hash": "4f6a0cd43d69882fdf1ab6ec1be57b0bb21939e0"
+          }
+        },
+        {
+          "client_id": "595013014447-2j57bfteenaksjnc4748crmf5as81fn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaoLTSoZoJ1SPycvXet9og3EZwKcMlgPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595013014447-2j57bfteenaksjnc4748crmf5as81fn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
